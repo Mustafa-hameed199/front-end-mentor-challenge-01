@@ -44,6 +44,8 @@ body{
 /* Start css card ---------------------------------------------------------------------- */
 
 .container{
+    height: 100vh;
+    width: 100vw;
     padding:100px;
     display: flex;
     justify-content: center;
